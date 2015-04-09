@@ -19,3 +19,4 @@ https://pypi.python.org/pypi/pytesseract/0.1
 apscheduler (3.0.2)   
 http://apscheduler.readthedocs.org/en/latest/  
 
+
